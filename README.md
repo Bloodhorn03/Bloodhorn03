@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm Francesco
 
-<!--
-**Bloodhorn03/Bloodhorn03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🖥️ IT Systems Engineer with a focus on automation and system optimization.  
+- 🌐 Passionate about simplifying IT workflows using tools like Ansible and Terraform.  
+- 🎓 Always learning about the latest technologies in systems engineering and cloud computing.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Operating Systems:** Windows Server, Linux (Ubuntu, CentOS)  
+- **Automation & Scripting:** Bash, PowerShell, Python, Ansible  
+- **Cloud & Virtualization:** AWS, Azure, VMware, Hyper-V  
+- **Networking:** Cisco, pfSense, Wireshark  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📬 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/francesco-di-natale-/) | [Email](fdinatale333@gmail.com)
