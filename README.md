@@ -5,7 +5,7 @@
 - 🖥️ Experienced in managing **Windows** and **Linux** systems, **Active Directory**, and cloud platforms like **AWS** and **Azure**.  
 - 🌍 I speak **Italian** (native) and **English** (B2 level) and enjoy collaborating internationally.  
 - 🎮 In my free time, I enjoy playing games like **Valorant** and **CS:GO**.  
-- 🌸 I'm also a big fan of **anime** and believe in constant **personal growth** through learning and self-improvement.  
+- 🎈 I'm also a big fan of **anime** and believe in constant **personal growth** through learning and self-improvement.  
 - 🎓 Always learning to stay updated with the latest in IT and cloud innovations.  
 
 ---
